@@ -1,0 +1,65 @@
+{
+  "description": "JARVIS EMOTIONAL AI ROBOT",
+  "language": "en",
+  "shortDescription": "Small talk topics to help make your bot more personable",
+  "examples": "User: Hello!\nUser: How are you?\nUser: Thank you!\nUser: You\u0027re welcome.\nUser: What\u0027s up?\nUser: I\u0027m bored.\nUser: I\u0027m joking.\nUser: Well done!\nUser: Who are you?\nUser: How old are you?\nUser: You\u0027re clever.\nUser: What do you do for fun?",
+  "linkToDocs": "",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "008e508b-8e5e-4f8f-8f3f-01c517b5321b",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [
+      "7d98f0a8-9c6e-434e-bd86-a22b73590838",
+      "b2a08e4e-a964-483a-a37e-ed8e03422fdd"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Colombo",
+  "webhook": {
+    "url": "",
+    "username": "",
+    "headers": {},
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": false,
+  "customClassifierMode": "use.instead",
+  "mlMinConfidence": 0.6,
+  "supportedLanguages": [
+    "en-au",
+    "en-ca",
+    "en-gb",
+    "en-us"
+  ],
+  "onePlatformApiVersion": "v1legacy",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": ""
+}
