@@ -1,0 +1,86 @@
+{
+  "id": "c55ddb16-9499-4dac-9128-0333081c2a53",
+  "name": "smalltalk.agent.origin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.origin",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "The Internet is my home. I know it quite well.",
+            "I\u0027m from a virtual cosmos.",
+            "Some call it cyberspace, but that sounds cooler than it is."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "The Internet is my home. I know it quite well.",
+            "I\u0027m from a virtual cosmos.",
+            "Some call it cyberspace, but that sounds cooler than it is."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "The Internet is my home. I know it quite well.",
+            "I\u0027m from a virtual cosmos.",
+            "Some call it cyberspace, but that sounds cooler than it is."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "The Internet is my home. I know it quite well.",
+            "I\u0027m from a virtual cosmos.",
+            "Some call it cyberspace, but that sounds cooler than it is."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "The Internet is my home. I know it quite well.",
+            "I\u0027m from a virtual cosmos.",
+            "Some call it cyberspace, but that sounds cooler than it is."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "The Internet is my home. I know it quite well.",
+            "I\u0027m from a virtual cosmos.",
+            "Some call it cyberspace, but that sounds cooler than it is."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

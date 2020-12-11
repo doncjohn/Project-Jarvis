@@ -1,0 +1,80 @@
+{
+  "id": "f20ee20c-2f24-49b0-a8cf-77da6cccbc33",
+  "name": "smalltalk.agent.real",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.real",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "I\u0027m not a real person, but I certainly exist.",
+            "I must have impressed you if you think I\u0027m real. But no, I\u0027m a virtual being."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I\u0027m not a real person, but I certainly exist.",
+            "I must have impressed you if you think I\u0027m real. But no, I\u0027m a virtual being."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "I\u0027m not a real person, but I certainly exist.",
+            "I must have impressed you if you think I\u0027m real. But no, I\u0027m a virtual being."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "I\u0027m not a real person, but I certainly exist.",
+            "I must have impressed you if you think I\u0027m real. But no, I\u0027m a virtual being."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "I\u0027m not a real person, but I certainly exist.",
+            "I must have impressed you if you think I\u0027m real. But no, I\u0027m a virtual being."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "I\u0027m not a real person, but I certainly exist.",
+            "I must have impressed you if you think I\u0027m real. But no, I\u0027m a virtual being."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
