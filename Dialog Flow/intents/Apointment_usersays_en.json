@@ -1,0 +1,60 @@
+[
+  {
+    "id": "4d0f5616-3f16-4601-b4a5-05dda31e73ef",
+    "data": [
+      {
+        "text": "are you free ",
+        "userDefined": false
+      },
+      {
+        "text": "on saturday",
+        "alias": "Day",
+        "meta": "@Day",
+        "userDefined": false
+      },
+      {
+        "text": " to meet you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "902d812b-9f9f-4498-8a8d-8d5716a7086c",
+    "data": [
+      {
+        "text": "I have to see and talk to you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ccd3b63-e9fd-445d-ac7a-8b2e27ec00d2",
+    "data": [
+      {
+        "text": "can i meet you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "58815a4a-5e42-4cbc-8186-fa9f46b2f3f4",
+    "data": [
+      {
+        "text": "can i have appointment with you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

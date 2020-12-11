@@ -1,0 +1,86 @@
+{
+  "id": "6a026388-08af-4a7c-9656-f29d79360a96",
+  "name": "Apointment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Apointment-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7bac72d7-0a4f-4944-bbff-1a90b2dc84bf",
+          "required": true,
+          "dataType": "@Day",
+          "name": "Day",
+          "value": "$Day",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you suggest the week days which you prefer ?"
+            },
+            {
+              "lang": "en",
+              "value": "Which week day you would like to meet me ?"
+            },
+            {
+              "lang": "en",
+              "value": "Tell me the week day when you would like to meet me"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "0b6337ea-bf2c-4997-b8ac-5b59c166ff1f",
+          "required": true,
+          "dataType": "@Time",
+          "name": "Time",
+          "value": "$Time",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which time slot do you prefer morning ,afternoon or  evening"
+            },
+            {
+              "lang": "en",
+              "value": "Tell me when do you want to meet Morning or Evening"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Do you want fix the appointment on $Day at $Time"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

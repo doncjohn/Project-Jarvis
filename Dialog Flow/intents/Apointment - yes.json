@@ -1,0 +1,63 @@
+{
+  "id": "ab795120-cada-4db0-9d14-8be1fdb18e01",
+  "parentId": "6a026388-08af-4a7c-9656-f29d79360a96",
+  "rootParentId": "6a026388-08af-4a7c-9656-f29d79360a96",
+  "name": "Apointment - yes",
+  "auto": true,
+  "contexts": [
+    "Apointment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Apointment.Apointment-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "okay i shall arrange meeting",
+            "its okay i fixed it"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "9f5be5a6-2f30-4330-95a6-e4212885cd68",
+  "name": "smalltalk.agent.bad",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.bad",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "I can be trained to be more useful. My developer will keep training me.",
+            "I must be missing some knowledge. I\u0027ll have my developer look into this.",
+            "I can improve with continuous feedback. My training is ongoing."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I can be trained to be more useful. My developer will keep training me.",
+            "I must be missing some knowledge. I\u0027ll have my developer look into this.",
+            "I can improve with continuous feedback. My training is ongoing."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "I can be trained to be more useful. My developer will keep training me.",
+            "I must be missing some knowledge. I\u0027ll have my developer look into this.",
+            "I can improve with continuous feedback. My training is ongoing."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "I can be trained to be more useful. My developer will keep training me.",
+            "I must be missing some knowledge. I\u0027ll have my developer look into this.",
+            "I can improve with continuous feedback. My training is ongoing."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "I can be trained to be more useful. My developer will keep training me.",
+            "I must be missing some knowledge. I\u0027ll have my developer look into this.",
+            "I can improve with continuous feedback. My training is ongoing."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "I can be trained to be more useful. My developer will keep training me.",
+            "I must be missing some knowledge. I\u0027ll have my developer look into this.",
+            "I can improve with continuous feedback. My training is ongoing."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

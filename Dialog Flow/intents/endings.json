@@ -1,0 +1,41 @@
+{
+  "id": "7d98f0a8-9c6e-434e-bd86-a22b73590838",
+  "name": "endings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "its ok",
+            "see you soon",
+            "catch you later",
+            "see you later",
+            "i\u0027m happy to meet you, bye",
+            "goodbye",
+            "thank you",
+            "take care",
+            "will meet soon"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

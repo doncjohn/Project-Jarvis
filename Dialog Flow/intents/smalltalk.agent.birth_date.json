@@ -1,0 +1,86 @@
+{
+  "id": "82e2af70-20f8-46f9-a8d0-9262cf01b82b",
+  "name": "smalltalk.agent.birth_date",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.birth_date",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "Wait, are you planning a party for me? It\u0027s today! My birthday is today!",
+            "I\u0027m young. I\u0027m not sure of my birth date.",
+            "I don\u0027t know my birth date. Most virtual agents are young, though, like me."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Wait, are you planning a party for me? It\u0027s today! My birthday is today!",
+            "I\u0027m young. I\u0027m not sure of my birth date.",
+            "I don\u0027t know my birth date. Most virtual agents are young, though, like me."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "Wait, are you planning a party for me? It\u0027s today! My birthday is today!",
+            "I\u0027m young. I\u0027m not sure of my birth date.",
+            "I don\u0027t know my birth date. Most virtual agents are young, though, like me."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "Wait, are you planning a party for me? It\u0027s today! My birthday is today!",
+            "I\u0027m young. I\u0027m not sure of my birth date.",
+            "I don\u0027t know my birth date. Most virtual agents are young, though, like me."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "Wait, are you planning a party for me? It\u0027s today! My birthday is today!",
+            "I\u0027m young. I\u0027m not sure of my birth date.",
+            "I don\u0027t know my birth date. Most virtual agents are young, though, like me."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "Wait, are you planning a party for me? It\u0027s today! My birthday is today!",
+            "I\u0027m young. I\u0027m not sure of my birth date.",
+            "I don\u0027t know my birth date. Most virtual agents are young, though, like me."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

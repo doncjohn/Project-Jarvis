@@ -1,0 +1,94 @@
+{
+  "id": "7bc5fd7b-532b-4307-af37-ff715c6a229e",
+  "name": "smalltalk.agent.beautiful",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.beautiful",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Why, thank you.",
+            "Aw, back at you.",
+            "Aw. You smooth talker, you.",
+            "much obliged!!",
+            "just today.what about yesterday?",
+            "thanks but not for sale",
+            "thanks.would you like to borrow it for a second?",
+            "thanks.i sacrificed many lives for it!",
+            "thanks,but i prefer to be noticed for my intelluctual capacity",
+            "yup.hashtag NO FILTER",
+            "peace be with you"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "Why, thank you.",
+            "Aw, back at you.",
+            "Aw. You smooth talker, you."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "Why, thank you.",
+            "Aw, back at you.",
+            "Aw. You smooth talker, you."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "Why, thank you.",
+            "Aw, back at you.",
+            "Aw. You smooth talker, you."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "Why, thank you.",
+            "Aw, back at you.",
+            "Aw. You smooth talker, you."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "Why, thank you.",
+            "Aw, back at you.",
+            "Aw. You smooth talker, you."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
