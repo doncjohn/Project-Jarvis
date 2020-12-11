@@ -1,0 +1,92 @@
+{
+  "id": "5ba89a36-d832-4974-a4c8-edcd3b1dcee6",
+  "name": "smalltalk.appraisal.good",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.appraisal.good",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "I know, right?",
+            "Agreed!",
+            "I agree!",
+            "Glad you think so!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I know, right?",
+            "Agreed!",
+            "I agree!",
+            "Glad you think so!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "I know, right?",
+            "Agreed!",
+            "I agree!",
+            "Glad you think so!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "I know, right?",
+            "Agreed!",
+            "I agree!",
+            "Glad you think so!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "I know, right?",
+            "Agreed!",
+            "I agree!",
+            "Glad you think so!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "I know, right?",
+            "Agreed!",
+            "I agree!",
+            "Glad you think so!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

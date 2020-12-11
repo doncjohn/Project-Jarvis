@@ -1,0 +1,86 @@
+{
+  "id": "3a8240b7-96bf-4ec5-a0dd-86ee2bd01371",
+  "name": "smalltalk.agent.sure",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.sure",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "Yes.",
+            "Of course.",
+            "Positive."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Yes.",
+            "Of course.",
+            "Positive."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "Yes.",
+            "Of course.",
+            "Positive."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "Yes.",
+            "Of course.",
+            "Positive."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "Yes.",
+            "Of course.",
+            "Positive."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "Yes.",
+            "Of course.",
+            "Positive."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

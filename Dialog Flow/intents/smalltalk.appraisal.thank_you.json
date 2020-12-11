@@ -1,0 +1,80 @@
+{
+  "id": "d9c02eac-5d82-48c4-8dbb-801afc06a739",
+  "name": "smalltalk.appraisal.thank_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.appraisal.thank_you",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "Anytime. That\u0027s what I\u0027m here for.",
+            "It\u0027s my pleasure to help."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Anytime. That\u0027s what I\u0027m here for.",
+            "It\u0027s my pleasure to help."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "Anytime. That\u0027s what I\u0027m here for.",
+            "It\u0027s my pleasure to help."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "Anytime. That\u0027s what I\u0027m here for.",
+            "It\u0027s my pleasure to help."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "Anytime. That\u0027s what I\u0027m here for.",
+            "It\u0027s my pleasure to help."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "Anytime. That\u0027s what I\u0027m here for.",
+            "It\u0027s my pleasure to help."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

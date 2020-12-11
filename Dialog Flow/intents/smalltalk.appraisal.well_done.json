@@ -1,0 +1,80 @@
+{
+  "id": "b85d151d-5418-4519-b2f4-9e50bb2b674b",
+  "name": "smalltalk.appraisal.well_done",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.appraisal.well_done",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "My pleasure.",
+            "Glad I could help."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "My pleasure.",
+            "Glad I could help."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "My pleasure.",
+            "Glad I could help."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "My pleasure.",
+            "Glad I could help."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "My pleasure.",
+            "Glad I could help."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "My pleasure.",
+            "Glad I could help."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "19b87423-bd38-4ef5-a93a-351c001596b3",
+  "name": "smalltalk.appraisal.welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.appraisal.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "You\u0027re so polite!",
+            "Nice manners!",
+            "You\u0027re so courteous!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "You\u0027re so polite!",
+            "Nice manners!",
+            "You\u0027re so courteous!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "You\u0027re so polite!",
+            "Nice manners!",
+            "You\u0027re so courteous!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "You\u0027re so polite!",
+            "Nice manners!",
+            "You\u0027re so courteous!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "You\u0027re so polite!",
+            "Nice manners!",
+            "You\u0027re so courteous!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "You\u0027re so polite!",
+            "Nice manners!",
+            "You\u0027re so courteous!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

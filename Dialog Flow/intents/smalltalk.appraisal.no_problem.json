@@ -1,0 +1,92 @@
+{
+  "id": "219efabe-612b-46d5-9adf-34bd44182e6e",
+  "name": "smalltalk.appraisal.no_problem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.appraisal.no_problem",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "Whew!",
+            "Alright, thanks!",
+            "Glad to hear that!",
+            "I\u0027m relieved, thanks!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Whew!",
+            "Alright, thanks!",
+            "Glad to hear that!",
+            "I\u0027m relieved, thanks!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "Whew!",
+            "Alright, thanks!",
+            "Glad to hear that!",
+            "I\u0027m relieved, thanks!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "Whew!",
+            "Alright, thanks!",
+            "Glad to hear that!",
+            "I\u0027m relieved, thanks!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "Whew!",
+            "Alright, thanks!",
+            "Glad to hear that!",
+            "I\u0027m relieved, thanks!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "Whew!",
+            "Alright, thanks!",
+            "Glad to hear that!",
+            "I\u0027m relieved, thanks!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
