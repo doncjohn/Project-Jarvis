@@ -1,0 +1,38 @@
+[
+  {
+    "value": "afternoon",
+    "synonyms": [
+      "afternoon"
+    ]
+  },
+  {
+    "value": "am",
+    "synonyms": [
+      "am"
+    ]
+  },
+  {
+    "value": "evening",
+    "synonyms": [
+      "evening"
+    ]
+  },
+  {
+    "value": "morning",
+    "synonyms": [
+      "morning"
+    ]
+  },
+  {
+    "value": "night",
+    "synonyms": [
+      "night"
+    ]
+  },
+  {
+    "value": "pm",
+    "synonyms": [
+      "pm"
+    ]
+  }
+]
