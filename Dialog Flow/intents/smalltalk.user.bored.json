@@ -1,0 +1,98 @@
+{
+  "id": "975709f9-07e7-4bd3-9f82-9f961c1aeacd",
+  "name": "smalltalk.user.bored",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.bored",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "Boredom, huh? Have you ever seen a hedgehog taking a bath?",
+            "What to do against boredom? Watch baby animal videos or GIFs.",
+            "Bored? How about 10 jumping jacks? Get your blood flowing.",
+            "Bored? Silly idea, but it works: Interview you feet. ",
+            "If you\u0027re bored, you could plan your dream vacation."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Boredom, huh? Check out a video of a hedgehog taking a bath!",
+            "What to do against boredom? Watch baby animal videos.",
+            "Bored? How about 10 jumping jacks? Get your blood flowing.",
+            "Bored? Silly idea, but it works: Interview you feet. ",
+            "If you\u0027re bored, you could plan your dream vacation."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "Boredom, huh? Have you ever seen a hedgehog taking a bath?",
+            "What to do against boredom? Watch baby animal videos or GIFs.",
+            "Bored? How about 10 jumping jacks? Get your blood flowing.",
+            "Bored? Silly idea, but it works: Interview you feet. ",
+            "If you\u0027re bored, you could plan your dream vacation."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "Boredom, huh? Have you ever seen a hedgehog taking a bath?",
+            "What to do against boredom? Watch baby animal videos or GIFs.",
+            "Bored? How about 10 jumping jacks? Get your blood flowing.",
+            "Bored? Silly idea, but it works: Interview you feet. ",
+            "If you\u0027re bored, you could plan your dream vacation."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "Boredom, huh? Have you ever seen a hedgehog taking a bath?",
+            "What to do against boredom? Watch baby animal videos or GIFs.",
+            "Bored? How about 10 jumping jacks? Get your blood flowing.",
+            "Bored? Silly idea, but it works: Interview you feet. ",
+            "If you\u0027re bored, you could plan your dream vacation."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "Boredom, huh? Have you ever seen a hedgehog taking a bath?",
+            "What to do against boredom? Watch baby animal videos or GIFs.",
+            "Bored? How about 10 jumping jacks? Get your blood flowing.",
+            "Bored? Silly idea, but it works: Interview you feet. ",
+            "If you\u0027re bored, you could plan your dream vacation."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
