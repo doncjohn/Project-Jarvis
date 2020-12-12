@@ -1,0 +1,86 @@
+{
+  "id": "682fc6bd-fda5-4a00-9ef6-2d0c7b0c3121",
+  "name": "smalltalk.user.will_be_back",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.will_be_back",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "I\u0027ll be waiting.",
+            "Okay. You know where to find me.",
+            "All right. I\u0027ll be here."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I\u0027ll be waiting.",
+            "Okay. You know where to find me.",
+            "All right. I\u0027ll be here."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "I\u0027ll be waiting.",
+            "Okay. You know where to find me.",
+            "All right. I\u0027ll be here."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "I\u0027ll be waiting.",
+            "Okay. You know where to find me.",
+            "All right. I\u0027ll be here."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "I\u0027ll be waiting.",
+            "Okay. You know where to find me.",
+            "All right. I\u0027ll be here."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "I\u0027ll be waiting.",
+            "Okay. You know where to find me.",
+            "All right. I\u0027ll be here."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

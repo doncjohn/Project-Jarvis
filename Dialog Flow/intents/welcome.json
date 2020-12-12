@@ -1,0 +1,53 @@
+{
+  "id": "8d58cf9e-e93f-4520-8623-7b9921abef4c",
+  "name": "welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "hello sir",
+            "may i help you",
+            "i\u0027m jarvis.how can i help you",
+            "hey ..jarvis here.",
+            "great question.i\u0027ll found that for you",
+            "i\u0027d love to understand more about",
+            "i\u0027ve passed this on to our team",
+            "happy to help"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "FACEBOOK_WELCOME"
+    },
+    {
+      "name": "TELEGRAM_WELCOME"
+    },
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
