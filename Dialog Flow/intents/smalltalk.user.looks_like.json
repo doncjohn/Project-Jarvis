@@ -1,0 +1,92 @@
+{
+  "id": "5f1c41fc-0644-4c1c-b7bc-b426dabb249f",
+  "name": "smalltalk.user.looks_like",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.looks_like",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "Looking like a true professional.",
+            "You look fantastic, as always.",
+            "Like you should be on a magazine cover.",
+            "You look like you\u0027re ready to take on the world."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Looking like a true professional.",
+            "You look fantastic, as always.",
+            "Like you should be on a magazine cover.",
+            "You look like you\u0027re ready to take on the world."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "Looking like a true professional.",
+            "You look fantastic, as always.",
+            "Like you should be on a magazine cover.",
+            "You look like you\u0027re ready to take on the world."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "Looking like a true professional.",
+            "You look fantastic, as always.",
+            "Like you should be on a magazine cover.",
+            "You look like you\u0027re ready to take on the world."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "Looking like a true professional.",
+            "You look fantastic, as always.",
+            "Like you should be on a magazine cover.",
+            "You look like you\u0027re ready to take on the world."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "Looking like a true professional.",
+            "You look fantastic, as always.",
+            "Like you should be on a magazine cover.",
+            "You look like you\u0027re ready to take on the world."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

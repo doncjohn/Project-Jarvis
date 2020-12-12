@@ -1,0 +1,80 @@
+{
+  "id": "a902efc3-a3c4-431e-9d54-717ee34500cc",
+  "name": "smalltalk.user.lonely",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.lonely",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en-gb",
+          "condition": "",
+          "speech": [
+            "I\u0027m sorry. I\u0027m always available if you need someone to talk to.",
+            "Sometimes that happens. We can chat a bit if that will help you."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "I\u0027m sorry. I\u0027m always available if you need someone to talk to.",
+            "Sometimes that happens. We can chat a bit if that will help you."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-au",
+          "condition": "",
+          "speech": [
+            "I\u0027m sorry. I\u0027m always available if you need someone to talk to.",
+            "Sometimes that happens. We can chat a bit if that will help you."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-in",
+          "condition": "",
+          "speech": [
+            "I\u0027m sorry. I\u0027m always available if you need someone to talk to.",
+            "Sometimes that happens. We can chat a bit if that will help you."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-us",
+          "condition": "",
+          "speech": [
+            "I\u0027m sorry. I\u0027m always available if you need someone to talk to.",
+            "Sometimes that happens. We can chat a bit if that will help you."
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en-ca",
+          "condition": "",
+          "speech": [
+            "I\u0027m sorry. I\u0027m always available if you need someone to talk to.",
+            "Sometimes that happens. We can chat a bit if that will help you."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
